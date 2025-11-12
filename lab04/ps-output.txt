@@ -1,0 +1,815 @@
+vip
+vip        ttys000                         ср 12 лис 13:48   still logged in
+vip        ttys001                         вт 11 лис 14:59 - 14:59  (00:00)
+vip        ttys000                         вт 11 лис 14:53 - 14:53  (00:00)
+vip        console                         вт 11 лис 14:47   still logged in
+reboot time                                вт 11 лис 14:47
+shutdown time                              пн 10 лис 13:02
+vip        ttys000                         нд  9 лис 15:01 - 15:01  (00:00)
+vip        console                         нд  9 лис 14:52 - 13:02  (22:10)
+reboot time                                нд  9 лис 14:51
+shutdown time                              нд  9 лис 10:52
+vip        console                         нд  9 лис 10:07 - 10:52  (00:45)
+reboot time                                нд  9 лис 10:06
+shutdown time                              сб  8 лис 23:06
+vip        ttys000                         сб  8 лис 15:00 - 15:00  (00:00)
+vip        console                         сб  8 лис 14:15 - 23:06  (08:50)
+reboot time                                сб  8 лис 14:15
+shutdown time                              сб  8 лис 10:32
+vip        console                         сб  8 лис 10:22 - 10:32  (00:10)
+reboot time                                сб  8 лис 10:22
+shutdown time                              пт  7 лис 23:00
+vip        ttys000                         пт  7 лис 15:02 - 15:02  (00:00)
+vip        console                         пт  7 лис 12:33 - 23:00  (10:26)
+reboot time                                пт  7 лис 10:19
+shutdown time                              пт  7 лис 09:00
+vip        console                         пт  7 лис 07:32 - 09:00  (01:28)
+reboot time                                пт  7 лис 07:32
+shutdown time                              чт  6 лис 23:28
+vip        ttys000                         чт  6 лис 15:01 - 15:01  (00:00)
+vip        console                         чт  6 лис 14:57 - 23:28  (08:30)
+reboot time                                чт  6 лис 14:57
+shutdown time                              чт  6 лис 13:46
+vip        ttys000                         чт  6 лис 12:14 - 12:14  (00:00)
+vip        console                         чт  6 лис 08:57 - 13:46  (04:49)
+reboot time                                чт  6 лис 08:56
+shutdown time                              ср  5 лис 23:04
+vip        ttys000                         ср  5 лис 17:11 - 17:11  (00:00)
+vip        console                         ср  5 лис 17:09 - 23:04  (05:54)
+reboot time                                ср  5 лис 17:09
+shutdown time                              ср  5 лис 16:46
+vip        ttys001                         ср  5 лис 16:00 - 16:00  (00:00)
+vip        ttys001                         ср  5 лис 15:59 - 15:59  (00:00)
+vip        ttys001                         ср  5 лис 15:59 - 15:59  (00:00)
+vip        ttys000                         ср  5 лис 14:59 - 14:59  (00:00)
+vip        ttys000                         ср  5 лис 14:34 - 14:34  (00:00)
+vip        ttys000                         ср  5 лис 14:31 - 14:31  (00:00)
+vip        ttys000                         ср  5 лис 14:29 - 14:29  (00:00)
+vip        ttys000                         ср  5 лис 13:57 - 13:57  (00:00)
+vip        ttys000                         ср  5 лис 13:54 - 13:54  (00:00)
+vip        ttys000                         ср  5 лис 13:49 - 13:49  (00:00)
+vip        ttys000                         ср  5 лис 13:46 - 13:46  (00:00)
+vip        console                         ср  5 лис 13:38 - 16:46  (03:07)
+reboot time                                ср  5 лис 13:38
+shutdown time                              ср  5 лис 11:14
+vip        ttys000                         ср  5 лис 10:44 - 10:44  (00:00)
+vip        console                         ср  5 лис 09:49 - 11:14  (01:25)
+reboot time                                ср  5 лис 09:49
+shutdown time                              вт  4 лис 23:03
+vip        ttys000                         вт  4 лис 20:28 - 20:28  (00:00)
+vip        console                         вт  4 лис 20:26 - 23:03  (02:36)
+reboot time                                вт  4 лис 20:25
+shutdown time                              вт  4 лис 20:08
+vip        ttys000                         вт  4 лис 15:04 - 15:04  (00:00)
+vip        console                         вт  4 лис 14:54 - 20:08  (05:14)
+reboot time                                вт  4 лис 14:54
+shutdown time                              пн  3 лис 23:05
+vip        ttys000                         пн  3 лис 19:20 - 19:20  (00:00)
+vip        console                         пн  3 лис 19:19 - 23:05  (03:46)
+reboot time                                пн  3 лис 19:19
+shutdown time                              пн  3 лис 18:44
+vip        ttys000                         пн  3 лис 15:08 - 15:08  (00:00)
+vip        console                         пн  3 лис 15:03 - 18:43  (03:40)
+reboot time                                пн  3 лис 15:03
+shutdown time                              пн  3 лис 12:05
+vip        console                         пн  3 лис 11:31 - 12:05  (00:34)
+reboot time                                пн  3 лис 11:31
+shutdown time                              пт 31 жов 19:22
+vip        ttys001                         пт 31 жов 15:22 - 15:22  (00:00)
+vip        ttys000                         пт 31 жов 15:20 - 15:20  (00:00)
+vip        console                         пт 31 жов 15:16 - 19:22  (04:05)
+reboot time                                пт 31 жов 15:16
+shutdown time                              чт 30 жов 19:22
+vip        ttys001                         чт 30 жов 15:15 - 15:15  (00:00)
+vip        ttys000                         чт 30 жов 15:11 - 15:11  (00:00)
+vip        ttys000                         чт 30 жов 15:09 - 15:09  (00:00)
+vip        console                         ср 29 жов 23:15 - 19:22  (20:07)
+reboot time                                ср 29 жов 23:15
+shutdown time                              ср 29 жов 19:21
+vip        ttys000                         ср 29 жов 15:29 - 15:29  (00:00)
+vip        console                         ср 29 жов 15:29 - 19:21  (03:52)
+reboot time                                ср 29 жов 15:29
+shutdown time                              вт 28 жов 19:20
+vip        ttys000                         вт 28 жов 15:27 - 15:27  (00:00)
+vip        console                         вт 28 жов 15:26 - 19:20  (03:53)
+reboot time                                вт 28 жов 15:26
+shutdown time                              пн 27 жов 19:23
+vip        ttys000                         нд 26 жов 15:05 - 15:05  (00:00)
+vip        console                         нд 26 жов 15:04 - 19:23 (1+04:19)
+reboot time                                нд 26 жов 15:04
+shutdown time                              сб 25 жов 23:04
+vip        ttys000                         сб 25 жов 15:13 - 15:13  (00:00)
+vip        console                         сб 25 жов 15:11 - 23:04  (07:52)
+reboot time                                сб 25 жов 15:11
+shutdown time                              пт 24 жов 19:19
+vip        ttys000                         пт 24 жов 15:31 - 15:31  (00:00)
+vip        console                         пт 24 жов 15:15 - 19:18  (04:03)
+reboot time                                пт 24 жов 15:13
+shutdown time                              чт 23 жов 19:25
+vip        ttys000                         чт 23 жов 16:14 - 16:14  (00:00)
+vip        console                         чт 23 жов 16:13 - 19:25  (03:12)
+reboot time                                чт 23 жов 16:12
+shutdown time                              чт 23 жов 03:09
+vip        ttys000                         ср 22 жов 23:11 - 23:11  (00:00)
+vip        console                         ср 22 жов 23:10 - 03:09  (03:58)
+reboot time                                ср 22 жов 23:10
+shutdown time                              ср 22 жов 19:17
+vip        ttys000                         ср 22 жов 15:07 - 15:07  (00:00)
+vip        console                         ср 22 жов 15:06 - 19:17  (04:10)
+reboot time                                ср 22 жов 15:06
+shutdown time                              вт 21 жов 19:25
+vip        ttys000                         вт 21 жов 15:57 - 15:57  (00:00)
+vip        console                         вт 21 жов 15:56 - 19:24  (03:28)
+reboot time                                вт 21 жов 15:56
+vip        ttys000                         пн 20 жов 15:09 - 15:09  (00:00)
+vip        console                         пн 20 жов 15:07 - 19:16  (04:08)
+reboot time                                пн 20 жов 15:07
+vip        ttys000                         нд 19 жов 15:38 - 15:38  (00:00)
+vip        console                         нд 19 жов 15:38 - 19:08  (03:30)
+reboot time                                нд 19 жов 15:37
+shutdown time                              сб 18 жов 19:16
+vip        ttys000                         сб 18 жов 15:24 - 15:24  (00:00)
+vip        console                         сб 18 жов 15:13 - 19:16  (04:02)
+reboot time                                сб 18 жов 15:13
+shutdown time                              сб 18 жов 10:16
+vip        console                         пт 17 жов 15:00 - 10:16  (19:15)
+reboot time                                пт 17 жов 15:00
+shutdown time                              чт 16 жов 22:05
+vip        ttys000                         чт 16 жов 21:48 - 21:48  (00:00)
+vip        console                         чт 16 жов 21:34 - 22:05  (00:30)
+reboot time                                чт 16 жов 21:33
+shutdown time                              чт 16 жов 19:24
+vip        ttys000                         чт 16 жов 15:28 - 15:28  (00:00)
+vip        console                         чт 16 жов 15:27 - 19:24  (03:57)
+reboot time                                чт 16 жов 15:26
+shutdown time                              чт 16 жов 06:17
+vip        ttys000                         ср 15 жов 22:53 - 22:53  (00:00)
+vip        console                         ср 15 жов 22:38 - 06:17  (07:39)
+reboot time                                ср 15 жов 22:37
+shutdown time                              ср 15 жов 19:25
+vip        ttys000                         ср 15 жов 16:02 - 16:02  (00:00)
+vip        console                         вт 14 жов 19:57 - 19:25  (23:27)
+reboot time                                вт 14 жов 19:56
+shutdown time                              вт 14 жов 19:16
+vip        ttys000                         вт 14 жов 18:07 - 18:07  (00:00)
+vip        console                         вт 14 жов 18:03 - 19:16  (01:13)
+reboot time                                вт 14 жов 18:03
+shutdown time                              вт 14 жов 18:03
+vip        ttys000                         вт 14 жов 15:12 - 15:12  (00:00)
+vip        console                         вт 14 жов 15:07 - 18:03  (02:55)
+reboot time                                вт 14 жов 15:07
+shutdown time                              пн 13 жов 20:43
+vip        ttys000                         пн 13 жов 20:42 - 20:42  (00:00)
+vip        console                         пн 13 жов 20:41 - 20:43  (00:01)
+reboot time                                пн 13 жов 20:41
+shutdown time                              пн 13 жов 19:18
+vip        ttys000                         пн 13 жов 14:57 - 14:57  (00:00)
+vip        console                         пн 13 жов 14:55 - 19:18  (04:23)
+reboot time                                пн 13 жов 14:55
+shutdown time                              нд 12 жов 20:38
+vip        ttys000                         нд 12 жов 19:56 - 19:56  (00:00)
+vip        console                         нд 12 жов 19:52 - 20:38  (00:46)
+reboot time                                нд 12 жов 19:52
+shutdown time                              нд 12 жов 19:13
+vip        ttys000                         нд 12 жов 15:17 - 15:17  (00:00)
+vip        console                         нд 12 жов 15:12 - 19:13  (04:00)
+reboot time                                нд 12 жов 15:12
+shutdown time                              сб 11 жов 19:07
+vip        ttys000                         сб 11 жов 15:38 - 15:38  (00:00)
+vip        console                         сб 11 жов 15:38 - 19:07  (03:29)
+reboot time                                сб 11 жов 15:37
+shutdown time                              пт 10 жов 20:09
+vip        ttys000                         пт 10 жов 19:46 - 19:46  (00:00)
+vip        console                         пт 10 жов 19:41 - 20:09  (00:28)
+reboot time                                пт 10 жов 19:41
+shutdown time                              пт 10 жов 19:11
+vip        ttys000                         пт 10 жов 15:54 - 15:54  (00:00)
+vip        console                         пт 10 жов 15:51 - 19:11  (03:20)
+reboot time                                пт 10 жов 15:51
+shutdown time                              пт 10 жов 15:50
+vip        ttys000                         пт 10 жов 15:44 - 15:44  (00:00)
+vip        console                         пт 10 жов 15:40 - 15:50  (00:10)
+reboot time                                пт 10 жов 15:40
+shutdown time                              пт 10 жов 15:39
+vip        console                         пт 10 жов 15:38 - 15:39  (00:01)
+reboot time                                пт 10 жов 15:38
+vip        ttys000                         чт  9 жов 17:31 - 17:31  (00:00)
+vip        ttys000                         ср  8 жов 14:50 - 14:50  (00:00)
+vip        ttys000                         ср  8 жов 14:12 - 14:12  (00:00)
+vip        ttys000                         ср  8 жов 14:10 - 14:10  (00:00)
+vip        console                         ср  8 жов 14:08 - 19:15 (1+05:06)
+reboot time                                ср  8 жов 14:08
+shutdown time                              ср  8 жов 02:02
+vip        console                         вт  7 жов 23:14 - 02:02  (02:47)
+reboot time                                вт  7 жов 23:14
+shutdown time                              вт  7 жов 19:13
+vip        ttys000                         вт  7 жов 18:48 - 18:48  (00:00)
+vip        ttys000                         вт  7 жов 15:20 - 15:20  (00:00)
+vip        console                         вт  7 жов 15:19 - 19:13  (03:54)
+reboot time                                вт  7 жов 15:19
+shutdown time                              вт  7 жов 06:34
+vip        console                         пн  6 жов 23:09 - 06:34  (07:24)
+reboot time                                пн  6 жов 23:09
+shutdown time                              пн  6 жов 19:53
+vip        console                         пн  6 жов 14:54 - 19:53  (04:59)
+reboot time                                пн  6 жов 12:35
+shutdown time                              пн  6 жов 11:40
+vip        console                         пн  6 жов 11:28 - 11:40  (00:11)
+reboot time                                пн  6 жов 11:28
+vip        ttys000                         сб  4 жов 15:25 - 15:25  (00:00)
+vip        ttys000                         пт  3 жов 15:52 - 15:52  (00:00)
+vip        ttys000                         пт  3 жов 15:50 - 15:50  (00:00)
+vip        console                         ср  1 жов 19:39 - 19:05 (3+23:26)
+reboot time                                ср  1 жов 19:38
+shutdown time                              ср  1 жов 19:03
+vip        console                         ср  1 жов 18:31 - 19:03  (00:31)
+reboot time                                ср  1 жов 18:31
+shutdown time                              ср  1 жов 18:21
+vip        console                         ср  1 жов 15:13 - 18:21  (03:07)
+reboot time                                ср  1 жов 15:13
+shutdown time                              вт 30 вер 19:11
+vip        console                         вт 30 вер 16:40 - 19:11  (02:30)
+reboot time                                пн 29 вер 07:21
+shutdown time                              нд 28 вер 19:06
+vip        console                         нд 28 вер 16:09 - 19:06  (02:57)
+reboot time                                нд 28 вер 16:08
+shutdown time                              нд 28 вер 04:09
+vip        console                         сб 27 вер 15:01 - 04:09  (13:07)
+reboot time                                сб 27 вер 15:00
+shutdown time                              сб 27 вер 13:07
+vip        console                         чт 25 вер 15:22 - 13:07 (1+21:45)
+reboot time                                чт 25 вер 15:21
+shutdown time                              ср 24 вер 19:23
+vip        console                         ср 24 вер 14:32 - 19:23  (04:50)
+reboot time                                ср 24 вер 14:32
+shutdown time                              ср 24 вер 12:34
+vip        console                         вт 23 вер 16:00 - 12:34  (20:34)
+reboot time                                вт 23 вер 15:59
+shutdown time                              пн 22 вер 23:12
+vip        console                         нд 21 вер 14:57 - 23:12 (1+08:15)
+reboot time                                нд 21 вер 14:57
+shutdown time                              сб 20 вер 13:06
+vip        ttys000                         сб 20 вер 13:05 - 13:05  (00:00)
+vip        console                         чт 18 вер 16:57 - 13:06 (1+20:09)
+reboot time                                чт 18 вер 16:57
+shutdown time                              вт 16 вер 22:59
+vip        console                         пн 15 вер 15:10 - 22:59 (1+07:48)
+reboot time                                пн 15 вер 15:08
+shutdown time                              нд 14 вер 23:07
+vip        console                         нд 14 вер 15:07 - 23:07  (07:59)
+reboot time                                нд 14 вер 15:07
+shutdown time                              чт 11 вер 23:04
+vip        console                         ср 10 вер 16:17 - 23:04 (1+06:47)
+reboot time                                ср 10 вер 16:15
+shutdown time                              вт  9 вер 23:03
+vip        console                         пн  8 вер 17:22 - 23:03 (1+05:40)
+reboot time                                пн  8 вер 17:22
+shutdown time                              нд  7 вер 23:03
+vip        console                         нд  7 вер 20:23 - 23:03  (02:39)
+reboot time                                нд  7 вер 20:23
+shutdown time                              сб  6 вер 23:19
+vip        console                         сб  6 вер 23:13 - 23:19  (00:06)
+reboot time                                сб  6 вер 23:12
+shutdown time                              сб  6 вер 23:06
+vip        ttys000                         сб  6 вер 19:03 - 19:03  (00:00)
+vip        console                         чт  4 вер 18:45 - 23:06 (2+04:21)
+reboot time                                чт  4 вер 18:44
+shutdown time                              вт  2 вер 22:23
+vip        console                         вт  2 вер 20:13 - 22:23  (02:09)
+reboot time                                вт  2 вер 20:12
+shutdown time                              пн  1 вер 19:03
+vip        console                         сб 30 сер 14:13 - 19:03 (2+04:50)
+reboot time                                сб 30 сер 14:13
+shutdown time                              сб 30 сер 04:30
+vip        console                         сб 30 сер 02:47 - 04:30  (01:42)
+reboot time                                сб 30 сер 02:47
+shutdown time                              сб 30 сер 02:30
+vip        console                         сб 30 сер 01:14 - 02:30  (01:15)
+reboot time                                сб 30 сер 01:14
+shutdown time                              пт 29 сер 19:05
+vip        console                         пт 29 сер 16:34 - 19:05  (02:31)
+reboot time                                пт 29 сер 16:34
+shutdown time                              пт 29 сер 09:39
+vip        console                         пт 29 сер 09:26 - 09:39  (00:12)
+reboot time                                пт 29 сер 09:26
+shutdown time                              чт 28 сер 20:45
+vip        console                         чт 28 сер 16:48 - 20:45  (03:56)
+reboot time                                чт 28 сер 16:48
+shutdown time                              ср 27 сер 19:37
+vip        console                         ср 27 сер 19:32 - 19:37  (00:04)
+reboot time                                ср 27 сер 19:32
+shutdown time                              ср 27 сер 17:59
+vip        console                         ср 27 сер 17:27 - 17:59  (00:32)
+reboot time                                ср 27 сер 17:27
+shutdown time                              ср 27 сер 17:27
+vip        console                         ср 27 сер 17:22 - 17:27  (00:04)
+reboot time                                ср 27 сер 17:22
+shutdown time                              ср 27 сер 17:22
+vip        console                         ср 27 сер 17:18 - 17:22  (00:03)
+reboot time                                ср 27 сер 17:18
+shutdown time                              вт 26 сер 19:23
+vip        ttys001                         вт 26 сер 18:15 - 18:15  (00:00)
+vip        ttys000                         вт 26 сер 18:14 - 18:14  (00:00)
+vip        console                         вт 26 сер 17:44 - 19:23  (01:38)
+reboot time                                вт 26 сер 17:44
+shutdown time                              пн 25 сер 23:09
+vip        console                         пн 25 сер 18:37 - 23:09  (04:32)
+reboot time                                пн 25 сер 18:36
+shutdown time                              нд 24 сер 23:03
+vip        ttys000                         нд 24 сер 18:02 - 18:02  (00:00)
+vip        ttys000                         нд 24 сер 17:57 - 17:57  (00:00)
+vip        console                         нд 24 сер 17:24 - 23:03  (05:39)
+reboot time                                нд 24 сер 17:24
+shutdown time                              сб 23 сер 23:48
+vip        console                         сб 23 сер 23:35 - 23:48  (00:13)
+reboot time                                сб 23 сер 23:35
+shutdown time                              сб 23 сер 23:24
+vip        console                         сб 23 сер 23:24 - 23:24  (00:00)
+reboot time                                сб 23 сер 23:23
+shutdown time                              сб 23 сер 23:17
+vip        console                         сб 23 сер 19:42 - 23:17  (03:35)
+reboot time                                сб 23 сер 19:41
+shutdown time                              сб 23 сер 19:17
+vip        console                         сб 23 сер 14:58 - 19:17  (04:19)
+reboot time                                сб 23 сер 14:57
+shutdown time                              пт 22 сер 19:00
+vip        console                         пт 22 сер 18:53 - 19:00  (00:07)
+reboot time                                пт 22 сер 18:52
+shutdown time                              пт 22 сер 18:18
+vip        console                         пт 22 сер 18:16 - 18:18  (00:02)
+reboot time                                пт 22 сер 18:16
+shutdown time                              пт 22 сер 18:13
+vip        console                         пт 22 сер 17:21 - 18:13  (00:52)
+reboot time                                пт 22 сер 17:21
+shutdown time                              пт 22 сер 09:23
+vip        console                         пт 22 сер 08:46 - 09:23  (00:37)
+reboot time                                пт 22 сер 08:45
+shutdown time                              чт 21 сер 23:04
+vip        console                         чт 21 сер 18:01 - 23:04  (05:02)
+reboot time                                чт 21 сер 18:01
+shutdown time                              чт 21 сер 15:20
+vip        console                         чт 21 сер 14:09 - 15:20  (01:10)
+reboot time                                чт 21 сер 14:09
+shutdown time                              чт 21 сер 13:15
+vip        console                         чт 21 сер 13:13 - 13:15  (00:02)
+reboot time                                чт 21 сер 13:12
+shutdown time                              чт 21 сер 08:32
+vip        console                         чт 21 сер 08:28 - 08:32  (00:03)
+reboot time                                чт 21 сер 08:28
+shutdown time                              ср 20 сер 23:03
+vip        console                         ср 20 сер 18:18 - 23:03  (04:45)
+reboot time                                ср 20 сер 18:17
+shutdown time                              вт 19 сер 19:55
+vip        console                         вт 19 сер 14:35 - 19:55  (05:19)
+reboot time                                вт 19 сер 14:35
+shutdown time                              вт 19 сер 09:07
+vip        console                         вт 19 сер 08:06 - 09:07  (01:01)
+reboot time                                вт 19 сер 08:05
+vip        console                         вт 19 сер 06:45 - 06:48  (00:02)
+reboot time                                вт 19 сер 06:45
+shutdown time                              пн 18 сер 23:18
+vip        console                         пн 18 сер 22:41 - 23:18  (00:37)
+reboot time                                пн 18 сер 22:41
+shutdown time                              пн 18 сер 20:13
+vip        console                         пн 18 сер 16:35 - 20:13  (03:38)
+reboot time                                пн 18 сер 16:35
+shutdown time                              пн 18 сер 15:49
+vip        console                         пн 18 сер 14:53 - 15:49  (00:56)
+reboot time                                пн 18 сер 14:53
+shutdown time                              пн 18 сер 09:35
+vip        console                         пн 18 сер 09:33 - 09:35  (00:02)
+reboot time                                пн 18 сер 09:32
+vip        console                         нд 17 сер 14:56 - 23:07  (08:11)
+reboot time                                нд 17 сер 14:56
+shutdown time                              нд 17 сер 10:48
+vip        console                         нд 17 сер 10:37 - 10:48  (00:10)
+reboot time                                нд 17 сер 10:37
+vip        console                         нд 17 сер 08:22 - 09:09  (00:46)
+reboot time                                нд 17 сер 08:21
+shutdown time                              сб 16 сер 23:36
+vip        console                         сб 16 сер 20:37 - 23:36  (02:58)
+reboot time                                сб 16 сер 20:37
+shutdown time                              сб 16 сер 19:37
+vip        console                         сб 16 сер 18:57 - 19:37  (00:40)
+_mbsetupuser console                         сб 16 сер 13:05 - 18:57  (05:51)
+root       console                         сб 16 сер 13:05 - 13:05  (00:00)
+reboot time                                сб 16 сер 13:04
+shutdown time                              сб 16 сер 13:01
+root       console                         сб 16 сер 13:00 - shutdown  (00:01)
+_mbsetupuser console                         сб 16 сер 11:56 - 13:00  (01:03)
+root       console                         сб 16 сер 11:56 - 11:56  (00:00)
+reboot time                                сб 16 сер 11:55
+reboot time                                ср 21 тра 13:17
+reboot time                                ср 21 тра 13:11
+
+wtmp begins ср 21 тра 2025 13:11:48 CEST
+vip              console      11 лис 14:47 
+vip              ttys000      12 лис 13:48 
+13:53  up 23:06, 2 users, load averages: 1,33 1,42 1,68
+USER       TTY      FROM    LOGIN@  IDLE WHAT
+vip        console  -      вт14    23:06 -
+vip        s000     -      13:48       - w
+vip        ttys000                         ср 12 лис 13:48   still logged in
+vip        ttys001                         вт 11 лис 14:59 - 14:59  (00:00)
+vip        ttys000                         вт 11 лис 14:53 - 14:53  (00:00)
+vip        console                         вт 11 лис 14:47   still logged in
+reboot time                                вт 11 лис 14:47
+shutdown time                              пн 10 лис 13:02
+vip        ttys000                         нд  9 лис 15:01 - 15:01  (00:00)
+vip        console                         нд  9 лис 14:52 - 13:02  (22:10)
+reboot time                                нд  9 лис 14:51
+shutdown time                              нд  9 лис 10:52
+vip        console                         нд  9 лис 10:07 - 10:52  (00:45)
+reboot time                                нд  9 лис 10:06
+shutdown time                              сб  8 лис 23:06
+vip        ttys000                         сб  8 лис 15:00 - 15:00  (00:00)
+vip        console                         сб  8 лис 14:15 - 23:06  (08:50)
+reboot time                                сб  8 лис 14:15
+shutdown time                              сб  8 лис 10:32
+vip        console                         сб  8 лис 10:22 - 10:32  (00:10)
+reboot time                                сб  8 лис 10:22
+shutdown time                              пт  7 лис 23:00
+vip        ttys000                         пт  7 лис 15:02 - 15:02  (00:00)
+vip        console                         пт  7 лис 12:33 - 23:00  (10:26)
+reboot time                                пт  7 лис 10:19
+shutdown time                              пт  7 лис 09:00
+vip        console                         пт  7 лис 07:32 - 09:00  (01:28)
+reboot time                                пт  7 лис 07:32
+shutdown time                              чт  6 лис 23:28
+vip        ttys000                         чт  6 лис 15:01 - 15:01  (00:00)
+vip        console                         чт  6 лис 14:57 - 23:28  (08:30)
+reboot time                                чт  6 лис 14:57
+shutdown time                              чт  6 лис 13:46
+vip        ttys000                         чт  6 лис 12:14 - 12:14  (00:00)
+vip        console                         чт  6 лис 08:57 - 13:46  (04:49)
+reboot time                                чт  6 лис 08:56
+shutdown time                              ср  5 лис 23:04
+vip        ttys000                         ср  5 лис 17:11 - 17:11  (00:00)
+vip        console                         ср  5 лис 17:09 - 23:04  (05:54)
+reboot time                                ср  5 лис 17:09
+shutdown time                              ср  5 лис 16:46
+vip        ttys001                         ср  5 лис 16:00 - 16:00  (00:00)
+vip        ttys001                         ср  5 лис 15:59 - 15:59  (00:00)
+vip        ttys001                         ср  5 лис 15:59 - 15:59  (00:00)
+vip        ttys000                         ср  5 лис 14:59 - 14:59  (00:00)
+vip        ttys000                         ср  5 лис 14:34 - 14:34  (00:00)
+vip        ttys000                         ср  5 лис 14:31 - 14:31  (00:00)
+vip        ttys000                         ср  5 лис 14:29 - 14:29  (00:00)
+vip        ttys000                         ср  5 лис 13:57 - 13:57  (00:00)
+vip        ttys000                         ср  5 лис 13:54 - 13:54  (00:00)
+vip        ttys000                         ср  5 лис 13:49 - 13:49  (00:00)
+vip        ttys000                         ср  5 лис 13:46 - 13:46  (00:00)
+vip        console                         ср  5 лис 13:38 - 16:46  (03:07)
+reboot time                                ср  5 лис 13:38
+shutdown time                              ср  5 лис 11:14
+vip        ttys000                         ср  5 лис 10:44 - 10:44  (00:00)
+vip        console                         ср  5 лис 09:49 - 11:14  (01:25)
+reboot time                                ср  5 лис 09:49
+shutdown time                              вт  4 лис 23:03
+vip        ttys000                         вт  4 лис 20:28 - 20:28  (00:00)
+vip        console                         вт  4 лис 20:26 - 23:03  (02:36)
+reboot time                                вт  4 лис 20:25
+shutdown time                              вт  4 лис 20:08
+vip        ttys000                         вт  4 лис 15:04 - 15:04  (00:00)
+vip        console                         вт  4 лис 14:54 - 20:08  (05:14)
+reboot time                                вт  4 лис 14:54
+shutdown time                              пн  3 лис 23:05
+vip        ttys000                         пн  3 лис 19:20 - 19:20  (00:00)
+vip        console                         пн  3 лис 19:19 - 23:05  (03:46)
+reboot time                                пн  3 лис 19:19
+shutdown time                              пн  3 лис 18:44
+vip        ttys000                         пн  3 лис 15:08 - 15:08  (00:00)
+vip        console                         пн  3 лис 15:03 - 18:43  (03:40)
+reboot time                                пн  3 лис 15:03
+shutdown time                              пн  3 лис 12:05
+vip        console                         пн  3 лис 11:31 - 12:05  (00:34)
+reboot time                                пн  3 лис 11:31
+shutdown time                              пт 31 жов 19:22
+vip        ttys001                         пт 31 жов 15:22 - 15:22  (00:00)
+vip        ttys000                         пт 31 жов 15:20 - 15:20  (00:00)
+vip        console                         пт 31 жов 15:16 - 19:22  (04:05)
+reboot time                                пт 31 жов 15:16
+shutdown time                              чт 30 жов 19:22
+vip        ttys001                         чт 30 жов 15:15 - 15:15  (00:00)
+vip        ttys000                         чт 30 жов 15:11 - 15:11  (00:00)
+vip        ttys000                         чт 30 жов 15:09 - 15:09  (00:00)
+vip        console                         ср 29 жов 23:15 - 19:22  (20:07)
+reboot time                                ср 29 жов 23:15
+shutdown time                              ср 29 жов 19:21
+vip        ttys000                         ср 29 жов 15:29 - 15:29  (00:00)
+vip        console                         ср 29 жов 15:29 - 19:21  (03:52)
+reboot time                                ср 29 жов 15:29
+shutdown time                              вт 28 жов 19:20
+vip        ttys000                         вт 28 жов 15:27 - 15:27  (00:00)
+vip        console                         вт 28 жов 15:26 - 19:20  (03:53)
+reboot time                                вт 28 жов 15:26
+shutdown time                              пн 27 жов 19:23
+vip        ttys000                         нд 26 жов 15:05 - 15:05  (00:00)
+vip        console                         нд 26 жов 15:04 - 19:23 (1+04:19)
+reboot time                                нд 26 жов 15:04
+shutdown time                              сб 25 жов 23:04
+vip        ttys000                         сб 25 жов 15:13 - 15:13  (00:00)
+vip        console                         сб 25 жов 15:11 - 23:04  (07:52)
+reboot time                                сб 25 жов 15:11
+shutdown time                              пт 24 жов 19:19
+vip        ttys000                         пт 24 жов 15:31 - 15:31  (00:00)
+vip        console                         пт 24 жов 15:15 - 19:18  (04:03)
+reboot time                                пт 24 жов 15:13
+shutdown time                              чт 23 жов 19:25
+vip        ttys000                         чт 23 жов 16:14 - 16:14  (00:00)
+vip        console                         чт 23 жов 16:13 - 19:25  (03:12)
+reboot time                                чт 23 жов 16:12
+shutdown time                              чт 23 жов 03:09
+vip        ttys000                         ср 22 жов 23:11 - 23:11  (00:00)
+vip        console                         ср 22 жов 23:10 - 03:09  (03:58)
+reboot time                                ср 22 жов 23:10
+shutdown time                              ср 22 жов 19:17
+vip        ttys000                         ср 22 жов 15:07 - 15:07  (00:00)
+vip        console                         ср 22 жов 15:06 - 19:17  (04:10)
+reboot time                                ср 22 жов 15:06
+shutdown time                              вт 21 жов 19:25
+vip        ttys000                         вт 21 жов 15:57 - 15:57  (00:00)
+vip        console                         вт 21 жов 15:56 - 19:24  (03:28)
+reboot time                                вт 21 жов 15:56
+vip        ttys000                         пн 20 жов 15:09 - 15:09  (00:00)
+vip        console                         пн 20 жов 15:07 - 19:16  (04:08)
+reboot time                                пн 20 жов 15:07
+vip        ttys000                         нд 19 жов 15:38 - 15:38  (00:00)
+vip        console                         нд 19 жов 15:38 - 19:08  (03:30)
+reboot time                                нд 19 жов 15:37
+shutdown time                              сб 18 жов 19:16
+vip        ttys000                         сб 18 жов 15:24 - 15:24  (00:00)
+vip        console                         сб 18 жов 15:13 - 19:16  (04:02)
+reboot time                                сб 18 жов 15:13
+shutdown time                              сб 18 жов 10:16
+vip        console                         пт 17 жов 15:00 - 10:16  (19:15)
+reboot time                                пт 17 жов 15:00
+shutdown time                              чт 16 жов 22:05
+vip        ttys000                         чт 16 жов 21:48 - 21:48  (00:00)
+vip        console                         чт 16 жов 21:34 - 22:05  (00:30)
+reboot time                                чт 16 жов 21:33
+shutdown time                              чт 16 жов 19:24
+vip        ttys000                         чт 16 жов 15:28 - 15:28  (00:00)
+vip        console                         чт 16 жов 15:27 - 19:24  (03:57)
+reboot time                                чт 16 жов 15:26
+shutdown time                              чт 16 жов 06:17
+vip        ttys000                         ср 15 жов 22:53 - 22:53  (00:00)
+vip        console                         ср 15 жов 22:38 - 06:17  (07:39)
+reboot time                                ср 15 жов 22:37
+shutdown time                              ср 15 жов 19:25
+vip        ttys000                         ср 15 жов 16:02 - 16:02  (00:00)
+vip        console                         вт 14 жов 19:57 - 19:25  (23:27)
+reboot time                                вт 14 жов 19:56
+shutdown time                              вт 14 жов 19:16
+vip        ttys000                         вт 14 жов 18:07 - 18:07  (00:00)
+vip        console                         вт 14 жов 18:03 - 19:16  (01:13)
+reboot time                                вт 14 жов 18:03
+shutdown time                              вт 14 жов 18:03
+vip        ttys000                         вт 14 жов 15:12 - 15:12  (00:00)
+vip        console                         вт 14 жов 15:07 - 18:03  (02:55)
+reboot time                                вт 14 жов 15:07
+shutdown time                              пн 13 жов 20:43
+vip        ttys000                         пн 13 жов 20:42 - 20:42  (00:00)
+vip        console                         пн 13 жов 20:41 - 20:43  (00:01)
+reboot time                                пн 13 жов 20:41
+shutdown time                              пн 13 жов 19:18
+vip        ttys000                         пн 13 жов 14:57 - 14:57  (00:00)
+vip        console                         пн 13 жов 14:55 - 19:18  (04:23)
+reboot time                                пн 13 жов 14:55
+shutdown time                              нд 12 жов 20:38
+vip        ttys000                         нд 12 жов 19:56 - 19:56  (00:00)
+vip        console                         нд 12 жов 19:52 - 20:38  (00:46)
+reboot time                                нд 12 жов 19:52
+shutdown time                              нд 12 жов 19:13
+vip        ttys000                         нд 12 жов 15:17 - 15:17  (00:00)
+vip        console                         нд 12 жов 15:12 - 19:13  (04:00)
+reboot time                                нд 12 жов 15:12
+shutdown time                              сб 11 жов 19:07
+vip        ttys000                         сб 11 жов 15:38 - 15:38  (00:00)
+vip        console                         сб 11 жов 15:38 - 19:07  (03:29)
+reboot time                                сб 11 жов 15:37
+shutdown time                              пт 10 жов 20:09
+vip        ttys000                         пт 10 жов 19:46 - 19:46  (00:00)
+vip        console                         пт 10 жов 19:41 - 20:09  (00:28)
+reboot time                                пт 10 жов 19:41
+shutdown time                              пт 10 жов 19:11
+vip        ttys000                         пт 10 жов 15:54 - 15:54  (00:00)
+vip        console                         пт 10 жов 15:51 - 19:11  (03:20)
+reboot time                                пт 10 жов 15:51
+shutdown time                              пт 10 жов 15:50
+vip        ttys000                         пт 10 жов 15:44 - 15:44  (00:00)
+vip        console                         пт 10 жов 15:40 - 15:50  (00:10)
+reboot time                                пт 10 жов 15:40
+shutdown time                              пт 10 жов 15:39
+vip        console                         пт 10 жов 15:38 - 15:39  (00:01)
+reboot time                                пт 10 жов 15:38
+vip        ttys000                         чт  9 жов 17:31 - 17:31  (00:00)
+vip        ttys000                         ср  8 жов 14:50 - 14:50  (00:00)
+vip        ttys000                         ср  8 жов 14:12 - 14:12  (00:00)
+vip        ttys000                         ср  8 жов 14:10 - 14:10  (00:00)
+vip        console                         ср  8 жов 14:08 - 19:15 (1+05:06)
+reboot time                                ср  8 жов 14:08
+shutdown time                              ср  8 жов 02:02
+vip        console                         вт  7 жов 23:14 - 02:02  (02:47)
+reboot time                                вт  7 жов 23:14
+shutdown time                              вт  7 жов 19:13
+vip        ttys000                         вт  7 жов 18:48 - 18:48  (00:00)
+vip        ttys000                         вт  7 жов 15:20 - 15:20  (00:00)
+vip        console                         вт  7 жов 15:19 - 19:13  (03:54)
+reboot time                                вт  7 жов 15:19
+shutdown time                              вт  7 жов 06:34
+vip        console                         пн  6 жов 23:09 - 06:34  (07:24)
+reboot time                                пн  6 жов 23:09
+shutdown time                              пн  6 жов 19:53
+vip        console                         пн  6 жов 14:54 - 19:53  (04:59)
+reboot time                                пн  6 жов 12:35
+shutdown time                              пн  6 жов 11:40
+vip        console                         пн  6 жов 11:28 - 11:40  (00:11)
+reboot time                                пн  6 жов 11:28
+vip        ttys000                         сб  4 жов 15:25 - 15:25  (00:00)
+vip        ttys000                         пт  3 жов 15:52 - 15:52  (00:00)
+vip        ttys000                         пт  3 жов 15:50 - 15:50  (00:00)
+vip        console                         ср  1 жов 19:39 - 19:05 (3+23:26)
+reboot time                                ср  1 жов 19:38
+shutdown time                              ср  1 жов 19:03
+vip        console                         ср  1 жов 18:31 - 19:03  (00:31)
+reboot time                                ср  1 жов 18:31
+shutdown time                              ср  1 жов 18:21
+vip        console                         ср  1 жов 15:13 - 18:21  (03:07)
+reboot time                                ср  1 жов 15:13
+shutdown time                              вт 30 вер 19:11
+vip        console                         вт 30 вер 16:40 - 19:11  (02:30)
+reboot time                                пн 29 вер 07:21
+shutdown time                              нд 28 вер 19:06
+vip        console                         нд 28 вер 16:09 - 19:06  (02:57)
+reboot time                                нд 28 вер 16:08
+shutdown time                              нд 28 вер 04:09
+vip        console                         сб 27 вер 15:01 - 04:09  (13:07)
+reboot time                                сб 27 вер 15:00
+shutdown time                              сб 27 вер 13:07
+vip        console                         чт 25 вер 15:22 - 13:07 (1+21:45)
+reboot time                                чт 25 вер 15:21
+shutdown time                              ср 24 вер 19:23
+vip        console                         ср 24 вер 14:32 - 19:23  (04:50)
+reboot time                                ср 24 вер 14:32
+shutdown time                              ср 24 вер 12:34
+vip        console                         вт 23 вер 16:00 - 12:34  (20:34)
+reboot time                                вт 23 вер 15:59
+shutdown time                              пн 22 вер 23:12
+vip        console                         нд 21 вер 14:57 - 23:12 (1+08:15)
+reboot time                                нд 21 вер 14:57
+shutdown time                              сб 20 вер 13:06
+vip        ttys000                         сб 20 вер 13:05 - 13:05  (00:00)
+vip        console                         чт 18 вер 16:57 - 13:06 (1+20:09)
+reboot time                                чт 18 вер 16:57
+shutdown time                              вт 16 вер 22:59
+vip        console                         пн 15 вер 15:10 - 22:59 (1+07:48)
+reboot time                                пн 15 вер 15:08
+shutdown time                              нд 14 вер 23:07
+vip        console                         нд 14 вер 15:07 - 23:07  (07:59)
+reboot time                                нд 14 вер 15:07
+shutdown time                              чт 11 вер 23:04
+vip        console                         ср 10 вер 16:17 - 23:04 (1+06:47)
+reboot time                                ср 10 вер 16:15
+shutdown time                              вт  9 вер 23:03
+vip        console                         пн  8 вер 17:22 - 23:03 (1+05:40)
+reboot time                                пн  8 вер 17:22
+shutdown time                              нд  7 вер 23:03
+vip        console                         нд  7 вер 20:23 - 23:03  (02:39)
+reboot time                                нд  7 вер 20:23
+shutdown time                              сб  6 вер 23:19
+vip        console                         сб  6 вер 23:13 - 23:19  (00:06)
+reboot time                                сб  6 вер 23:12
+shutdown time                              сб  6 вер 23:06
+vip        ttys000                         сб  6 вер 19:03 - 19:03  (00:00)
+vip        console                         чт  4 вер 18:45 - 23:06 (2+04:21)
+reboot time                                чт  4 вер 18:44
+shutdown time                              вт  2 вер 22:23
+vip        console                         вт  2 вер 20:13 - 22:23  (02:09)
+reboot time                                вт  2 вер 20:12
+shutdown time                              пн  1 вер 19:03
+vip        console                         сб 30 сер 14:13 - 19:03 (2+04:50)
+reboot time                                сб 30 сер 14:13
+shutdown time                              сб 30 сер 04:30
+vip        console                         сб 30 сер 02:47 - 04:30  (01:42)
+reboot time                                сб 30 сер 02:47
+shutdown time                              сб 30 сер 02:30
+vip        console                         сб 30 сер 01:14 - 02:30  (01:15)
+reboot time                                сб 30 сер 01:14
+shutdown time                              пт 29 сер 19:05
+vip        console                         пт 29 сер 16:34 - 19:05  (02:31)
+reboot time                                пт 29 сер 16:34
+shutdown time                              пт 29 сер 09:39
+vip        console                         пт 29 сер 09:26 - 09:39  (00:12)
+reboot time                                пт 29 сер 09:26
+shutdown time                              чт 28 сер 20:45
+vip        console                         чт 28 сер 16:48 - 20:45  (03:56)
+reboot time                                чт 28 сер 16:48
+shutdown time                              ср 27 сер 19:37
+vip        console                         ср 27 сер 19:32 - 19:37  (00:04)
+reboot time                                ср 27 сер 19:32
+shutdown time                              ср 27 сер 17:59
+vip        console                         ср 27 сер 17:27 - 17:59  (00:32)
+reboot time                                ср 27 сер 17:27
+shutdown time                              ср 27 сер 17:27
+vip        console                         ср 27 сер 17:22 - 17:27  (00:04)
+reboot time                                ср 27 сер 17:22
+shutdown time                              ср 27 сер 17:22
+vip        console                         ср 27 сер 17:18 - 17:22  (00:03)
+reboot time                                ср 27 сер 17:18
+shutdown time                              вт 26 сер 19:23
+vip        ttys001                         вт 26 сер 18:15 - 18:15  (00:00)
+vip        ttys000                         вт 26 сер 18:14 - 18:14  (00:00)
+vip        console                         вт 26 сер 17:44 - 19:23  (01:38)
+reboot time                                вт 26 сер 17:44
+shutdown time                              пн 25 сер 23:09
+vip        console                         пн 25 сер 18:37 - 23:09  (04:32)
+reboot time                                пн 25 сер 18:36
+shutdown time                              нд 24 сер 23:03
+vip        ttys000                         нд 24 сер 18:02 - 18:02  (00:00)
+vip        ttys000                         нд 24 сер 17:57 - 17:57  (00:00)
+vip        console                         нд 24 сер 17:24 - 23:03  (05:39)
+reboot time                                нд 24 сер 17:24
+shutdown time                              сб 23 сер 23:48
+vip        console                         сб 23 сер 23:35 - 23:48  (00:13)
+reboot time                                сб 23 сер 23:35
+shutdown time                              сб 23 сер 23:24
+vip        console                         сб 23 сер 23:24 - 23:24  (00:00)
+reboot time                                сб 23 сер 23:23
+shutdown time                              сб 23 сер 23:17
+vip        console                         сб 23 сер 19:42 - 23:17  (03:35)
+reboot time                                сб 23 сер 19:41
+shutdown time                              сб 23 сер 19:17
+vip        console                         сб 23 сер 14:58 - 19:17  (04:19)
+reboot time                                сб 23 сер 14:57
+shutdown time                              пт 22 сер 19:00
+vip        console                         пт 22 сер 18:53 - 19:00  (00:07)
+reboot time                                пт 22 сер 18:52
+shutdown time                              пт 22 сер 18:18
+vip        console                         пт 22 сер 18:16 - 18:18  (00:02)
+reboot time                                пт 22 сер 18:16
+shutdown time                              пт 22 сер 18:13
+vip        console                         пт 22 сер 17:21 - 18:13  (00:52)
+reboot time                                пт 22 сер 17:21
+shutdown time                              пт 22 сер 09:23
+vip        console                         пт 22 сер 08:46 - 09:23  (00:37)
+reboot time                                пт 22 сер 08:45
+shutdown time                              чт 21 сер 23:04
+vip        console                         чт 21 сер 18:01 - 23:04  (05:02)
+reboot time                                чт 21 сер 18:01
+shutdown time                              чт 21 сер 15:20
+vip        console                         чт 21 сер 14:09 - 15:20  (01:10)
+reboot time                                чт 21 сер 14:09
+shutdown time                              чт 21 сер 13:15
+vip        console                         чт 21 сер 13:13 - 13:15  (00:02)
+reboot time                                чт 21 сер 13:12
+shutdown time                              чт 21 сер 08:32
+vip        console                         чт 21 сер 08:28 - 08:32  (00:03)
+reboot time                                чт 21 сер 08:28
+shutdown time                              ср 20 сер 23:03
+vip        console                         ср 20 сер 18:18 - 23:03  (04:45)
+reboot time                                ср 20 сер 18:17
+shutdown time                              вт 19 сер 19:55
+vip        console                         вт 19 сер 14:35 - 19:55  (05:19)
+reboot time                                вт 19 сер 14:35
+shutdown time                              вт 19 сер 09:07
+vip        console                         вт 19 сер 08:06 - 09:07  (01:01)
+reboot time                                вт 19 сер 08:05
+vip        console                         вт 19 сер 06:45 - 06:48  (00:02)
+reboot time                                вт 19 сер 06:45
+shutdown time                              пн 18 сер 23:18
+vip        console                         пн 18 сер 22:41 - 23:18  (00:37)
+reboot time                                пн 18 сер 22:41
+shutdown time                              пн 18 сер 20:13
+vip        console                         пн 18 сер 16:35 - 20:13  (03:38)
+reboot time                                пн 18 сер 16:35
+shutdown time                              пн 18 сер 15:49
+vip        console                         пн 18 сер 14:53 - 15:49  (00:56)
+reboot time                                пн 18 сер 14:53
+shutdown time                              пн 18 сер 09:35
+vip        console                         пн 18 сер 09:33 - 09:35  (00:02)
+reboot time                                пн 18 сер 09:32
+vip        console                         нд 17 сер 14:56 - 23:07  (08:11)
+reboot time                                нд 17 сер 14:56
+shutdown time                              нд 17 сер 10:48
+vip        console                         нд 17 сер 10:37 - 10:48  (00:10)
+reboot time                                нд 17 сер 10:37
+vip        console                         нд 17 сер 08:22 - 09:09  (00:46)
+reboot time                                нд 17 сер 08:21
+shutdown time                              сб 16 сер 23:36
+vip        console                         сб 16 сер 20:37 - 23:36  (02:58)
+reboot time                                сб 16 сер 20:37
+shutdown time                              сб 16 сер 19:37
+vip        console                         сб 16 сер 18:57 - 19:37  (00:40)
+_mbsetupuser console                         сб 16 сер 13:05 - 18:57  (05:51)
+root       console                         сб 16 сер 13:05 - 13:05  (00:00)
+reboot time                                сб 16 сер 13:04
+shutdown time                              сб 16 сер 13:01
+root       console                         сб 16 сер 13:00 - shutdown  (00:01)
+_mbsetupuser console                         сб 16 сер 11:56 - 13:00  (01:03)
+root       console                         сб 16 сер 11:56 - 11:56  (00:00)
+reboot time                                сб 16 сер 11:55
+reboot time                                ср 21 тра 13:17
+reboot time                                ср 21 тра 13:11
+
+wtmp begins ср 21 тра 2025 13:11:48 CEST
