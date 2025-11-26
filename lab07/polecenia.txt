@@ -1,0 +1,10 @@
+apropos - przeszukuje nazwy i opisy stron podr˛ecznika systemowego
+cal - wy´ swietla kalendar
+cat – ł ˛aczy pliki,
+• grep – wypisuje wiersze pasuj ˛ace do wzorca,
+• head – zwraca pocz ˛atek pliku,
+• sort – sortuje wiersze tekstu,
+• tail – zwraca koniec pliku,
+• tee – pobiera dane ze standardowego wej´ scia, zapisuje je do plików i wypisue na standardowym wyj´ sciu.
+• uniq – zgłasza lub pomija powtarzaj ˛ace si˛e wiersze,
+• wc – wypisuje liczb˛e wierszy, wyrazów oraz bajtów w ka˙ zdym pliku,
